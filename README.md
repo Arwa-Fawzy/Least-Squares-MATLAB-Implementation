@@ -6,6 +6,7 @@ deviations or errors in each equation's result. In data fitting, the least-squar
 used. The best fit result is thought to lower the sum of squared errors, or residuals.
 Least-squares problems are divided into two categories:
 1. Ordinary or linear least squares 
-2. Nonlinear least squares 
+2. Nonlinear least squares
+
 The following implementation demonstrates that the code can be implemented in any valid matrices of a system of linear 
 equation (SLE).
